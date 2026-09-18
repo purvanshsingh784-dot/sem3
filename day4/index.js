@@ -14,8 +14,8 @@ function showName() {
 
 showName();
 
-let firstName = "Prateek";
-let lastName = "Kumar";
+let firstName = "Purvansh";
+let lastName = "Singh";
 
 let fullName = firstName + " " + lastName;
 
